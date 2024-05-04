@@ -1,0 +1,3 @@
+export const SET_CURRENT_USER = 'SET_CURRENT_USER'
+export const SIGNUP_USER = 'SIGNUP_USER'
+export const SIGNUP_USER_FAIL = 'SIGNUP_USER_FAIL'
